@@ -16,3 +16,6 @@
 [submodule "lib/BeautifyMarker"]
 	path = lib/BeautifyMarker
 	url = https://github.com/marslan390/BeautifyMarker.git
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = https://github.com/twbs/bootstrap.git

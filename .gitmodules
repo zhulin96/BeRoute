@@ -1,0 +1,15 @@
+[submodule "lib/bootstrap-slider"]
+	path = lib/bootstrap-slider
+	url = https://github.com/seiyria/bootstrap-slider
+[submodule "lib/Leaflet"]
+	path = lib/Leaflet
+	url = https://github.com/Leaflet/Leaflet
+[submodule "lib/leaflet-groupedlayercontrol"]
+	path = lib/leaflet-groupedlayercontrol
+	url = https://github.com/ismyrnow/leaflet-groupedlayercontrol
+[submodule "lib/leaflet-providers"]
+	path = lib/leaflet-providers
+	url = https://github.com/leaflet-extras/leaflet-providers
+[submodule "lib/sidebar-v2"]
+	path = lib/sidebar-v2
+	url = https://github.com/Turbo87/sidebar-v2
